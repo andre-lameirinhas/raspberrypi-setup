@@ -1,3 +1,7 @@
+#! /usr/bin/env bash
+set -euo pipefail
+
+
 mkdir /disks /disks/elements
 chown -R plex:plex /disks
 
