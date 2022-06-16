@@ -1,1 +1,1 @@
-# raspberrypi-setup
+# Scripts to setup Plex Media Server on a Raspberry Pi
